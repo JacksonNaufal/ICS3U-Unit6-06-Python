@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="SI7tuCP2dQLLvXjDpIHG" name="Page-1">
-        <mxGraphModel dx="1074" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="594" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="338" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="335">
+                <mxCell id="338" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="335" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
@@ -13,55 +13,55 @@
                 <mxCell id="10" value="Stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="525.5" y="-580" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="345" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="335" target="340">
+                <mxCell id="345" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="335" target="340" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="335" value="get&lt;br&gt;output_string" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="335" value="get&lt;br&gt;output_string" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
                     <mxGeometry x="365" y="-1040" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="346" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="340" target="341">
+                <mxCell id="346" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="340" target="341" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="340" value="hex_string = &quot;&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="340" value="hex_string = &quot;&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="365" y="-950" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="359" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="341" target="348">
+                <mxCell id="359" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="341" target="348" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="341" value="dictionary = {&lt;span id=&quot;docs-internal-guid-b75843a7-7fff-7cbb-28d7-b7b11e7af5f2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x20',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;!&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x21',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x23',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;/span&gt;...}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="341" value="dictionary = {&lt;span id=&quot;docs-internal-guid-b75843a7-7fff-7cbb-28d7-b7b11e7af5f2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x20',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;!&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x21',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x23',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;/span&gt;...}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="365" y="-870" width="125" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="352" value="" style="edgeStyle=none;html=1;fontSize=12;fontColor=#000000;rounded=0;" edge="1" parent="1" source="348" target="350">
+                <mxCell id="352" value="" style="edgeStyle=none;html=1;fontSize=12;fontColor=#000000;rounded=0;" parent="1" source="348" target="350" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="576" y="-710"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="357" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="348" target="349">
+                <mxCell id="357" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="348" target="349" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="348" value="" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="388" y="-750" width="80" height="80" as="geometry"/>
+                <mxCell id="348" value="for word_string in output_string" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="352" y="-750" width="152" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="356" style="edgeStyle=none;rounded=0;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="349">
+                <mxCell id="356" style="edgeStyle=none;rounded=0;html=1;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" parent="1" source="349" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="283" y="-600" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="358" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="349" target="351">
+                <mxCell id="358" style="edgeStyle=none;rounded=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="349" target="351" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="349" value="" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="388" y="-640" width="80" height="80" as="geometry"/>
+                <mxCell id="349" value="if chatacter in dictionary.keys()" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="362" y="-640" width="132" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="353" value="" style="edgeStyle=none;rounded=0;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="350" target="10">
+                <mxCell id="353" value="" style="edgeStyle=none;rounded=0;html=1;fontSize=12;fontColor=#000000;" parent="1" source="350" target="10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="350" value="get&lt;br&gt;output_string" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-                    <mxGeometry x="515.5" y="-690" width="120" height="60" as="geometry"/>
+                <mxCell id="350" value="get&lt;br&gt;output_string" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="515.5" y="-660" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="355" style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="351" target="348">
+                <mxCell id="355" style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" parent="1" source="351" target="348" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="283" y="-475"/>
@@ -69,8 +69,20 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="351" value="dictionary = {&lt;span id=&quot;docs-internal-guid-b75843a7-7fff-7cbb-28d7-b7b11e7af5f2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x20',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;!&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x21',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x23',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;/span&gt;...}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="351" value="dictionary = {&lt;span id=&quot;docs-internal-guid-b75843a7-7fff-7cbb-28d7-b7b11e7af5f2&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x20',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;!&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x21',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;&quot;'0x23',&quot;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;consolas&amp;#34; , sans-serif ; font-style: italic ; vertical-align: baseline&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;/span&gt;...}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="365.5" y="-520" width="125" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="360" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="504" y="-700" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="361" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="444" y="-660" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="362" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="305.5" y="-630" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="363" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="434" y="-560" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
